@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",Juns Free Channel. This is free and for entertainment use only. [Credits to sir hi2u]
 plugin://plugin.video.youtube/play/?video_id=CM4CkVFmTds
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA TV 
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 
@@ -242,36 +245,59 @@ http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=425
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dailyesports.gg/wp-content/uploads/2019/09/BLUE_ForWeb.png" group-title="Gaming",Venn
 https://venntv-ono.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV US
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA TV US
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2375.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV TH
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 01 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV TH
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 02 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
 
-ext,NBA channels active during live games,https://i.imgur.com/BtwxhNR.png
-ext,NBA 01 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
-ext,NBA 02 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
-ext,NBA 03 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
-ext,NBA 04 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
-ext,NBA 05 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
-ext,NBA 06 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
-ext,NBA 07 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
-ext,NBA 08 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
-ext,NBA 09 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
-ext,NBA 10 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
-ext,NBA 11 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
-ext,NBA 12 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
-ext,NBA 13 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
-ext,NBA 14 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
-ext,NBA 15 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
-ext,NBA 16 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
-ext,NBA 17 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 03 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 04 HD 
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 05 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 06 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 07 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 08 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 09 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 14 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 15 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 16 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 17 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
 
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/2000?cb=20180810230802" group-title="Sports",FOX Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive

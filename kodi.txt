@@ -245,6 +245,34 @@ https://venntv-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV US
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2375.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV TH
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV TH
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+ext,NBA channels active during live games,https://i.imgur.com/BtwxhNR.png
+ext,NBA 01 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
+ext,NBA 02 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
+ext,NBA 03 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
+ext,NBA 04 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
+ext,NBA 05 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
+ext,NBA 06 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
+ext,NBA 07 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
+ext,NBA 08 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
+ext,NBA 09 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
+ext,NBA 10 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
+ext,NBA 11 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
+ext,NBA 12 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
+ext,NBA 13 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
+ext,NBA 14 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
+ext,NBA 15 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
+ext,NBA 16 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
+ext,NBA 17 HD,http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
+
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg/revision/latest/scale-to-width-down/2000?cb=20180810230802" group-title="Sports",FOX Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

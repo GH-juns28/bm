@@ -1,0 +1,25 @@
+Alternatives for the local channels:
+
+TV5: http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+CNN Philippines: https://strêâmïng.cnnphilippines.com/live/myStream/playlist.m3u8
+DepEd TV: https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/playlist.m3u8
+
+Other local channels:
+
+UNTV: https://www.untvweb.com/live-stream/untvweb.m3u8
+One Sports: http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+Net 25: https://ebc.sytes.net/hls/net25.m3u8
+SMNI: https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+PTV: https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwGYTAzAJnJSvniefhUQJGc8)/dm/3/x5cr6b9/d/live-2.m3u8
+INC TV: https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
+Hope Philippines: https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+GCTV: http://45.32.115.103/live/livestream/index.m3u8
+Life TV: https://d3cbe0gidjd4k2.cloudfront.net/channel_6/smil:channel_6.smil/playlist.m3u8
+Pilipinas HD: https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
+TV Shop: https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/playlist.m3u8
+TBN Asia: https://d3cbe0gidjd4k2.cloudfront.net/channel_4/smil:channel_4.smil/playlist.m3u8
+MyTV: http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+
+CLTV: https://ssh101.com/securelive/index.php?id=cltv36
+Community TV3: https://www.twitch.tv/cctn47_live
+CCTN: https://www.twitch.tv/communitytv3/

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1093489.jpg",Juns Free Channel. This is free and for entertainment use only. [Credits to sir hi2u]
-https://www.youtube.com/watch?v=z7TTCP6JuRQ
+https://www.fb.com/mark.layong.7
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA TV 
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8

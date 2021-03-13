@@ -248,6 +248,9 @@ https://venntv-ono.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA TV US
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2375.ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA channels active during live games
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="NBA",NBA 01 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
 
